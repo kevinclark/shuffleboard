@@ -290,7 +290,7 @@ project(":api") {
 }
 
 tasks.withType<Wrapper>().configureEach {
-    gradleVersion = "5.0"
+    gradleVersion = "6.2"
 }
 
 /**
