@@ -22,7 +22,7 @@ plugins {
     id("edu.wpi.first.wpilib.repositories.WPILibRepositoriesPlugin") version "2020.1"
     id("com.jfrog.artifactory") version "4.9.8"
     id("com.github.johnrengelman.shadow") version "4.0.3"
-    id("com.diffplug.gradle.spotless") version "3.13.0"
+    id("com.diffplug.gradle.spotless") version "3.24.2"
     id("com.github.spotbugs") version "3.0.0"
     id("com.google.osdetector") version "1.4.0"
 }
